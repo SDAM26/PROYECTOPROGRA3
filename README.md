@@ -1,5 +1,7 @@
 # Hex Game
 
+![](logo.png)
+
 ## Descripción del proyecto y caracter ́ısticas principales
 
 ## Requisitos
