@@ -1,6 +1,4 @@
-# PROYECTOPROGRA3
-Hex Game
-
+# Hex Game
 
 ## Descripción del proyecto y caracter ́ısticas principales
 
